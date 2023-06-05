@@ -1,0 +1,21 @@
+{
+
+  "UserFirstName": "Grogy2",
+  "UserLastName": "Mandalorian2",
+  "UserEmail": "test-email-2@gmail.com",
+  "UserTelephone": "+380111222278",
+  "UserFax": "04455540021",
+  "Company": "Test-Company-1",
+  "Address1": "Test-Address-1",
+  "City": "Test-City-1",
+  "ZipCode": "Test-Zipcode-1",
+  "LoginName": "Test-LoginName-2",
+  "Password": "Qwerty!-2",
+ 
+  
+
+  "LoginAutorized": "Test-LoginName-2",
+  "PasswordAutorized": "Qwerty!-2",
+  "UsernameAutorized": "Grogy2"
+
+}
